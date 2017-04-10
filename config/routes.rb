@@ -12,4 +12,6 @@ get '/kitten/:size'=> 'pages#kitten'
 
 get '/kittens/:size' => 'pages#kittens'
 
+get '/secrets/:secretword' => 'pages#secrets'
+
 end
