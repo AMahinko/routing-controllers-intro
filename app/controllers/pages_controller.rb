@@ -8,4 +8,6 @@ def about
 
 end
 
+def contest
+
 end
